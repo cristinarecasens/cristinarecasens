@@ -5,7 +5,7 @@
 
 - 🔭 I’m looking for new job opportunities.
 - 🌱 I’m a biologist, so I have knowledge in science!
-- 💻 I’m currently learning R, Database Analysis, and JavaScript.
+- 💻 I’m currently learning R, Database Analysis, JavaScript and PHP.
 - 📫 How to reach me: cristina.recasens13@gmail.com
 -->
 
