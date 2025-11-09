@@ -1,16 +1,18 @@
 
 <h2>Cristina Recasens</h2>
 
-<br />
+
 
 - 🔭 I’m looking for new job opportunities.
 - 🌱 I’m a biologist, so I have knowledge in science!
 - 💻 I’m currently learning R, Database Analysis, JavaScript and PHP.
 - 📫 How to reach me: cristina.recasens13@gmail.com
--->
 
 
+<br/>
+👉 <a href="cristinarecasens.com">Visit my portfolio</a>
 <br />
+<br/>
 
 <h3>💬​Spoken Languages </h3>
 <ul>
@@ -19,9 +21,6 @@
 <li>English (EN) </li>
 </ul>
 
-<br/>
-
-👉 <a href="cristinarecasens.com">Visit my portfolio</a>
 
 <br/>
 
