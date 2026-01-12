@@ -10,7 +10,7 @@
 
 
 <br/>
-👉 <a href="cristinarecasens.com">Visit my portfolio</a>
+👉 <a href="www.cristinarecasens.com">Visit my portfolio</a>
 <br />
 <br/>
 
