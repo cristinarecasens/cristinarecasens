@@ -7,7 +7,7 @@
 - 📫 Reach me: cristina.recasens13@gmail.com
 - 👉 [Portfolio](https://www.cristinarecasens.com)
 
-<h3>📚 Currently Learning / Aprendiendo</h3>
+<h3>📚 Currently Learning 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
