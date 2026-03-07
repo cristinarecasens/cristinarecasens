@@ -1,4 +1,3 @@
-
 <h2>Cristina Recasens</h2>
 
 
@@ -6,7 +5,7 @@
 - 🌱 Background in Biology applied to problem solving and data analysis.
 - 📫 Reach me: cristina.recasens13@gmail.com
 - 👉 [Portfolio](https://www.cristinarecasens.com)
-
+<br/><br/>
 <h3>📚 Currently Learning 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
