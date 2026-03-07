@@ -58,15 +58,10 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br/><br/><br/><br/>
 
-
-<br />
-<br />
-<br />
-<br />
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinarecasens&layout=pie" alt="Top Langs" />
-  </a>
+<br /> <br /> <br /> <br /> 
+<p align="center"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinarecasens&layout=pie" alt="Top Langs" /> 
+  </a> 
 </p>
 
