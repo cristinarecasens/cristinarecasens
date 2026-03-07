@@ -2,17 +2,17 @@
 <h2>Cristina Recasens</h2>
 
 
+- 🔭 Software Developer (Junior)/ Fullstack / Backend roles.
+- 🌱 Background in Biology applied to problem solving and data analysis.
+- 📫 Reach me: cristina.recasens13@gmail.com
+- 👉 [Portfolio](https://www.cristinarecasens.com)
 
-- 🔭 I’m looking for new job opportunities.
-- 🌱 I’m a biologist, so I have knowledge in science!
-- 💻 I’m currently learning R, Database Analysis, JavaScript and PHP.
-- 📫 How to reach me: cristina.recasens13@gmail.com
-
-
-<br/>
-👉 <a href="https://www.cristinarecasens.com">Visit my portfolio</a>
-<br />
-<br/>
+<h3>📚 Currently Learning / Aprendiendo</h3>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img align="left" alt="Database Analysis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<br/><br/>
 
 <h3>💬​Spoken Languages </h3>
 <ul>
