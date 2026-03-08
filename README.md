@@ -64,4 +64,4 @@
 
 <h3> 🧰 Top Languages </h3>
 
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinarecasens&layout=pie&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinarecasens&layout=pie&theme=radical&hide=html)](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinarecasens&layout=pie)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinarecasens&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
