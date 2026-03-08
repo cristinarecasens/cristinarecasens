@@ -15,7 +15,7 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" />
 
 
-<br/><br/>
+<br/><br/><br/>
 
 <h3>💬​Spoken Languages </h3>
 <ul>
@@ -25,7 +25,7 @@
 </ul>
 
 
-<br/>
+<br/><br/>
 
 <h3>🧰 Programing Languages and Tools </h3>
 
